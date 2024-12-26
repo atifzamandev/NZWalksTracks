@@ -170,3 +170,4 @@ F:\Atif_Projects\NZWalks\NZWalks\NZWalks.Api\bin\Debug\net8.0\runtimes\win\lib\n
 F:\Atif_Projects\NZWalks\NZWalks\NZWalks.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 F:\Atif_Projects\NZWalks\NZWalks\NZWalks.Api\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 F:\Atif_Projects\NZWalks\NZWalks\NZWalks.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Atif_Projects\NZWalks\NZWalks\NZWalks.Api\obj\Debug\net8.0\NZWalks.Api.sourcelink.json

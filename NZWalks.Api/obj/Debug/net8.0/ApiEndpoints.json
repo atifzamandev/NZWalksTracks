@@ -1,5 +1,15 @@
 [
   {
+    "ContainingType": "NZWalks.Api.Controllers.RegionsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Regions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "NZWalks.Api.Controllers.StudentsController",
     "Method": "GetAllStudents",
     "RelativePath": "api/Students",
